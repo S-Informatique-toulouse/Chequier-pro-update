@@ -24,26 +24,39 @@ Consultez le fichier [changelog.txt](changelog.txt) pour le détail des modifica
 
 ---
 
-## 🚀 Installation
+## 🚀 Première installation
 
 1. Téléchargez `ChequierPro.zip` depuis la section **Releases**
-2. Extrayez le dossier où vous le souhaitez
+2. Extrayez le dossier où vous le souhaitez sur votre PC
 3. Double-cliquez sur **ChequierPro.exe**
 4. Entrez votre clé de licence au premier lancement
-
----
-
-## 🔑 Licence
-
-Cette application fonctionne avec un système de licence par abonnement.  
-Pour obtenir une clé : **seb.boukobza@gmail.com**
+5. Renseignez vos informations dans l'onglet **Paramètres**
 
 ---
 
 ## 🔄 Mise à jour
 
 L'application vérifie automatiquement les mises à jour à chaque démarrage.  
-Si une nouvelle version est disponible, une fenêtre s'affiche — vos données sont toujours préservées.
+Si une nouvelle version est disponible, une fenêtre s'affiche avec les nouveautés.
+
+**Pour mettre à jour :**
+1. Cliquez **Oui** dans la fenêtre de mise à jour — votre navigateur s'ouvre automatiquement sur le téléchargement
+2. Téléchargez `ChequierPro.zip`
+3. Fermez l'application
+4. Extrayez le ZIP
+5. Remplacez l'ancien dossier `ChequierPro` par le nouveau
+6. ⚠️ **Recopiez votre dossier `data\`** (contient votre base de données) dans le nouveau dossier
+7. ⚠️ **Recopiez votre dossier `assets\`** (contient vos logos) dans le nouveau dossier
+8. Relancez **ChequierPro.exe**
+
+> Vos données et logos sont toujours préservés à condition de recopier `data\` et `assets\`.
+
+---
+
+## 🔑 Licence
+
+Cette application fonctionne avec un système de licence par abonnement.  
+Pour obtenir ou renouveler une clé : **seb.boukobza@gmail.com**
 
 ---
 
